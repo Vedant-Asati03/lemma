@@ -1,1 +1,1 @@
-# lemma
+![lemma-hero-image](/assets/images/logo.png)
